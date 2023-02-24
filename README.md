@@ -1,11 +1,15 @@
-# Hi there 👋 , I'm Baden!
-I'm a beginner, but I want to learn about new things in programming
+# Hi 👋 , I'm Baden Nugraha! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Denngrh.visitor-badge)
+I hope you can find useful stuff here 😉
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![Follower Badge](https://img.shields.io/github/followers/Denngrh)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Denngrh.visitor-badge)
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently working on Framework Laravel </br>
+    - 🌱 I’m currently learning <strong>Web Development</strong></br>
+    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="khansa0201ab@gmail.com">Email me!</a>  </br>
+    - ⚡ Fun fact: ... </br>
+</details>
 
-### Connect with me ☎️
-<p align="center">
-  <a href="https://instagram.com/denngrh_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://github.com/Denngrh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />  <br>
-</p>
