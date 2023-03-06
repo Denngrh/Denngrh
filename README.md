@@ -1,9 +1,9 @@
 
-# Hi there, I'm Baden 👋
+<h1 align="center">Hi there, I'm Baden 👋</h1>
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Denngrh">
 </a>
-<br/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
