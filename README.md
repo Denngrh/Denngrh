@@ -13,7 +13,7 @@
 
 
 ## 🤝🏻 Connect with Me!
-[![Email: badennugraha4@gmail.com](https://img.shields.io/badge/-Denngrh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:badennugraha4@gmail.com)
+[![Email: badennugraha4@gmail.com](https://img.shields.io/badge/-badennugraha4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:badennugraha4@gmail.com)
 [![LinkedIn: Baden Nugraha](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denngrh/)](https://www.linkedin.com/in/denngrh/)&nbsp;
 [![Instagram: Follow denngrh_](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/denngrh_)&nbsp;
 ---
