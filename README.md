@@ -8,7 +8,7 @@
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Denngrh&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Denngrh's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Denngrh&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Denngrh's Most Used Language">
 | ------------- | ------------- |  
 
-| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=Denngrh&hide_border=true&theme=radical">
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Denngrh&theme=onedark)](https://git.io/streak-stats)
 | ------------- |
 
 
