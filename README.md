@@ -8,9 +8,6 @@
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Denngrh&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Denngrh's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Denngrh&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Denngrh's Most Used Language">
 | ------------- | ------------- |  
 
-| 
-| ------------- |
-
 
 ## 🤝🏻 Connect with Me!
 [![Email: badennugraha4@gmail.com](https://img.shields.io/badge/-badennugraha4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:badennugraha4@gmail.com)
